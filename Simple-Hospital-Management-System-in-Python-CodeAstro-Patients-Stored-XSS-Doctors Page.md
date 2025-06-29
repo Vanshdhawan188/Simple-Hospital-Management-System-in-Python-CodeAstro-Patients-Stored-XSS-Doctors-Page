@@ -15,7 +15,7 @@ Attackers can inject malicious JavaScript via the patname field (POST parameter)
 
 ## Proof of Concept (PoC)
 
-### Step 1: Navigate to the Python Simple Hospital Management System Patient's Section
+### Step 1: Navigate to the Python Simple Hospital Management System Doctor's Section
 
 Navigate to the Available Doctor Section:
 
