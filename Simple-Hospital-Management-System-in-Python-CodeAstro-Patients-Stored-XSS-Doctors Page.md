@@ -1,6 +1,6 @@
 ## Vulnerability Summary
 A critical Stored Cross-Site Scripting (XSS) vulnerability was discovered in the Available Doctor's file of CodeAstro Simple Hospital Management System in Python.
-Attackers can inject malicious JavaScript via the patname field (POST parameter), which gets persistently stored in the database and executed whenever the profile page is viewed.
+Attackers can inject malicious JavaScript via the patname field (POST parameter), which gets persistently stored in the database and executed whenever the page is viewed.
 
 ## Key Details
 
